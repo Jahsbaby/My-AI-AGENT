@@ -8,6 +8,9 @@ import {
 } from "./tools";
 import { mkdir } from "fs/promises";
 import "dotenv/config";
+import { formatDate } from "./utils/date";
+
+console.log("Today's date is:", formatDate());
 
 const REVIEW_OUTPUT_DIR = "./reviews";
 

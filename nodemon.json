@@ -1,0 +1,5 @@
+{
+  "watch": ["utils", "tests"],
+  "ext": "ts,js,json",
+  "exec": "bun test"
+}
