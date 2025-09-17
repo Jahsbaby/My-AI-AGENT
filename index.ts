@@ -7,6 +7,7 @@ import {
   writeReviewToMarkdownTool,
 } from "./tools";
 import { mkdir } from "fs/promises";
+import "dotenv/config";
 
 const REVIEW_OUTPUT_DIR = "./reviews";
 

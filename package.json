@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@ai-sdk/google": "^2.0.14",
+    "dotenv": "^17.2.2",
     "simple-git": "^3.28.0",
     "zod": "^4.1.9"
   }
