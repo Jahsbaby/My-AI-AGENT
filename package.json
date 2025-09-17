@@ -10,6 +10,8 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@ai-sdk/google": "^2.0.14"
+    "@ai-sdk/google": "^2.0.14",
+    "simple-git": "^3.28.0",
+    "zod": "^4.1.9"
   }
 }
